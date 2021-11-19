@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Papertrain2829
 - Minecraft pluginer
-- 📫 How to reach me with: @PaperTrain05
+- Java Developer 
+- Manager/Dev ChilAc (private anticheat)
+- Owner/Dev ChillGames
+- ip mc server in costruction: mc.chillgames.ga
 
 <!---
 Papertrain2829/Papertrain2829 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
